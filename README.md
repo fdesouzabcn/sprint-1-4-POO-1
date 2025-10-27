@@ -1,4 +1,4 @@
-# Project Name
+# POO 1 - (Objected Oriented Programming - OOP)
   **Description**: In this practice (S1.04) we will have to practice POO (Objected Oriented Programming - OOP) 
 
   ## 🛠 Technologies
