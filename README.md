@@ -1,9 +1,9 @@
 # Project Name
-  **Description**: A brief explanation of the project's objective.
+  **Description**: In this practice (S1.04) we will have to practice POO (Objected Oriented Programming - OOP) 
 
   ## 🛠 Technologies
-  - Frontend: React, Tailwind
-  - Backend: Java, MongoDB
+  - Frontend: N/A
+  - Backend: PHP
 
   ## 🚀 Installation
   1. Clone the repository: `git clone ...`
