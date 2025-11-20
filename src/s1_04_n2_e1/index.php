@@ -31,4 +31,8 @@ echo "Dice 5: " . $dice5->getDiceFace() . "\n";
 echo "\n";
 echo "Total rolls performed: " . PokerDice::getTotalRolls() . "\n";
 
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> ce685505778db9ad1bfdd5d014a672a890474e77
